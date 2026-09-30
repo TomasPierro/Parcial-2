@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ClasesP/ClasesP.csproj" />
+  <Project Path="consola/consola.csproj" Id="44b7c8d7-9dfb-4adf-b4c6-68e56ea7d2f3" />
 </Solution>

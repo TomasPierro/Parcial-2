@@ -1,0 +1,14 @@
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\bin\Debug\net10.0\ClasesP.deps.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\bin\Debug\net10.0\ClasesP.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\bin\Debug\net10.0\ClasesP.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.sourcelink.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\refint\ClasesP.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ref\ClasesP.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial-2\ClasesP\obj\Debug\net10.0\ClasesP.csproj.Up2Date

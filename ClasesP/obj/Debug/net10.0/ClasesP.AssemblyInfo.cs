@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasesP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25e6e4b0cb2185594513433ea7f2b271dd1ab0ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasesP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasesP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

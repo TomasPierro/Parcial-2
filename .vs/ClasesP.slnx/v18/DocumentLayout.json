@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\ClasesP\\",
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3F2BA3F-CAA6-4F84-A302-6C58DAFA4320}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\source\\repos\\clasesp\\clasesp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3F2BA3F-CAA6-4F84-A302-6C58DAFA4320}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B7C8D7-9DFB-4ADF-B4C6-68E56EA7D2F3}|consola\\consola.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B7C8D7-9DFB-4ADF-B4C6-68E56EA7D2F3}|consola\\consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\repositories\\repocancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\repositories\\repocancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B7C8D7-9DFB-4ADF-B4C6-68E56EA7D2F3}|consola\\consola.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\consola\\consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44B7C8D7-9DFB-4ADF-B4C6-68E56EA7D2F3}|consola\\consola.csproj|solutionrelative:consola\\consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial-2\\clasesp\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A818A7A-89CB-8531-8D96-FAE27AFDB581}|ClasesP\\ClasesP.csproj|solutionrelative:clasesp\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\ClasesP\\ClasesP\\Class1.cs",
-              "RelativeDocumentMoniker": "ClasesP\\Class1.cs",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\ClasesP\\ClasesP\\Class1.cs",
-              "RelativeToolTip": "ClasesP\\Class1.cs",
+              "DocumentIndex": 1,
+              "Title": "repocancion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\repocancion.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Repositories\\repocancion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\repocancion.cs",
+              "RelativeToolTip": "ClasesP\\Repositories\\repocancion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:28:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Models\\Cancion.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Models\\Cancion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Models\\Cancion.cs",
+              "RelativeToolTip": "ClasesP\\Models\\Cancion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:09:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Models\\Artista.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Models\\Artista.cs",
+              "RelativeToolTip": "ClasesP\\Models\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:08:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "consola",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\consola\\consola.csproj",
+              "RelativeDocumentMoniker": "consola\\consola.csproj",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\consola\\consola.csproj",
+              "RelativeToolTip": "consola\\consola.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T20:45:11.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ClasesP\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:44:13.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "ClasesP\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:43:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\consola\\Program.cs",
+              "RelativeDocumentMoniker": "consola\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\consola\\Program.cs",
+              "RelativeToolTip": "consola\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:37:33.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClasesP\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial-2\\ClasesP\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "ClasesP\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T20:36:25.352Z",
               "EditorCaption": ""
